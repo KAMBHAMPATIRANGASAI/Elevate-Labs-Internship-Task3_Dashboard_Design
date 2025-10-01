@@ -41,9 +41,6 @@ This dashboard helps various business functions:
 - **Marketing Teams:** Targeted campaigns based on customer segments
 - **Supply Chain:** Demand forecasting and inventory optimization
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_overview.png)
-
 
 ## 📚 Learning Outcomes
 Through this, I demonstrated:
